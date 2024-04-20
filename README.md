@@ -55,6 +55,7 @@ Run an Ubuntu container in interactive mode, create a file inside it, and manage
 ```
 #### 4. Check File Status
 ```bash
+     ls hello-docker
 ```
 #### 5. What happened to hello-docker file?
 ```bash
